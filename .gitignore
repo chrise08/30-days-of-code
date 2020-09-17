@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+
+/httpRequests/
+
+.idea/*
+*.iml
+.DS_Store
